@@ -20,7 +20,7 @@
     ?>
 
     <nav class="navbar navbar-dark bg-primary">
-        <a class="navbar-brand" href="#">Travel Semangat</a>
+        <a class="navbar-brand" href="#">Travel Mangats</a>
     </nav>
     <div class="parallax">
         <h1 class="display-4" style="color:white;">Pendaftaran Rute Penerbangan</h1>
