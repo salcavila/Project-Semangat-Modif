@@ -147,6 +147,6 @@
 	}
 	?>
 </table>
-
+<footer style="background-color: black; color:blanchedalmond; text-align: center;">Salcavila @ 2021</footer>
 </body>
 </html>
