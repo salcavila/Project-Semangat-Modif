@@ -1,0 +1,50 @@
+[
+    {
+        "maskapai": "Winx Air",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": 1,
+        "pajak": 0,
+        "totalHarga": 1
+    },
+    {
+        "maskapai": "Winx Air",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": 1,
+        "pajak": 0,
+        "totalHarga": null
+    },
+    {
+        "maskapai": "Gundala Air",
+        "bandaraAsal": "Husein Sastranegara (BDO)",
+        "bandaraTujuan": "Hasanudin (UPG)",
+        "hargaTiket": 1,
+        "pajak": null,
+        "totalHarga": 1
+    },
+    {
+        "maskapai": "Water Air",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Inanwatan (INX)",
+        "hargaTiket": 1,
+        "pajak": null,
+        "totalHarga": 1
+    },
+    {
+        "maskapai": "Justice Air",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": 100,
+        "pajak": null,
+        "totalHarga": 100
+    },
+    {
+        "maskapai": "Fenix Air",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Inanwatan (INX)",
+        "hargaTiket": 1,
+        "pajak": 130000,
+        "totalHarga": 130001
+    }
+]
